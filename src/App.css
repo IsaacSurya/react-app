@@ -1,38 +1,91 @@
-.App {
-  text-align: center;
+.Col1{
+    background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);
+    height: 100vh;
+    padding: 2%;
+   margin-top: 2%;
+
+ 
+    
+}
+.Col2{
+    background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);
+}
+ul li{
+    padding: 10%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+
+.menu{
+   
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.home3{
+    margin-top: 10%;
+    margin-left: 10%;
+
+}
+.lol2{
+    display: flex;
+    flex-wrap: wrap;
+}
+.dell{
+   
+   
+    background-color: aliceblue;
+    border-radius: 25%;
+    height: 250px;
+ 
+    width: 330px;
+    margin-top: 3%;
+    margin-left: 1%;
+    text-align: center;
+    padding: 5%;
+    
+}
+.dell1{
+    display: flex;
+}
+h1{
+    background-color: antiquewhite;
+    width: 300px;
+    text-align: center;
+    border-radius: 25%;
+}
+.mall{
+   
+   
+    background-color: aliceblue;
+    border-radius: 25%;
+    height: 150px;
+ 
+    width: 330px;
+    margin-top: 3%;
+    margin-left: 1%;
+    text-align: center;
+    padding: 5%;
+    
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  
+p{
+    background-color: aliceblue;
+    width: 400px;
+    font-size: large;
+    margin-top: 3%;
 }
-
-.App-link {
-  color: #61dafb;
+.mall1{
+    display: flex;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.pall{
+    margin-left: 17%;
+}
+.fall{
+    margin-left: 13%;
+}
+.tall{
+    margin-top: 3%;
 }
