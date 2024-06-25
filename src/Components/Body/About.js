@@ -97,6 +97,8 @@ const rows = [
       height={450}
       width={400}
       leftAxis={null}
+      
+      
     />
 
 
