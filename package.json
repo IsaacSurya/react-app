@@ -1,5 +1,5 @@
 {
-  "homepage":"https://isaacsurya.github.io/react-app/",
+  "homepage": "https://isaacsurya.github.io/react-app/",
   "name": "isaacnew",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +19,7 @@
     "bootstrap": "^5.3.3",
     "dayjs": "^1.11.11",
     "dom": "^0.0.3",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.2",
     "react-dom": "^18.3.1",
@@ -28,8 +29,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run built",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run built",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
