@@ -7,7 +7,7 @@ function Header() {
     <div>
         <ul>
         
-          <Link to="/"><li>Home</li></Link>  
+          <Link to="/react-app"><li>Home</li></Link>  
           <Link to="/about"><li>About</li></Link> 
           <Link to="/services"><li>Services</li></Link> 
           <Link to="/contact"><li>Contact</li></Link> 
